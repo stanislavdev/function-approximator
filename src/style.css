@@ -1,0 +1,40 @@
+.default-color0.chart-line-symbol {
+    -fx-background-color: #ffc107, white;
+}
+
+.default-color1.chart-line-symbol {
+    -fx-background-color: #795548, white;
+}
+
+.default-color2.chart-line-symbol {
+    -fx-background-color: #673ab7, white;
+}
+
+.default-color3.chart-line-symbol {
+    -fx-background-color: #f44336, white;
+}
+
+.default-color4.chart-line-symbol {
+    -fx-background-color: #009688, white;
+}
+
+.default-color5.chart-line-symbol {
+    -fx-background-color: transparent, transparent;
+    -fx-padding: 1px;
+}
+
+.default-color5.chart-series-line {
+    -fx-stroke: #2196f3;
+}
+
+.default-color6.chart-line-symbol {
+    -fx-background-color: transparent, transparent;
+    -fx-padding: 1px;
+}
+
+.default-color6.chart-series-line {
+    -fx-stroke: #cddc39;
+}
+
+
+
